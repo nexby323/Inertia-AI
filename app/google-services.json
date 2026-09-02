@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "16464407353",
+    "project_id": "inretia-ai",
+    "storage_bucket": "inretia-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16464407353:android:d20e5d60fa1f4d9d2856e8",
+        "android_client_info": {
+          "package_name": "com.example.InertiaAI"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYO26Xo-Tsa2XqhM4SpWD3efmYeqTreZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
